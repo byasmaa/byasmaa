@@ -30,7 +30,7 @@ I'm currently working on my first data analysis project — stay tuned!
 
 ## 📫 Connect
 
-- [LinkedIn](www.linkedin.com/in/asmaa-alreshi)  
+- [LinkedIn](https://www.linkedin.com/in/asmaa-alreshi/)
 - [GitHub](https://github.com/byasmaa)
 
 
