@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi there, I'm Asmaa
 
-<!--
-**byasmaa/byasmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Data Analyst passionate about learning, exploring data, and turning it into insights using Python, Excel, and visualization tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Python**: Pandas, NumPy, Seaborn, Matplotlib  
+- **Data Visualization**: Seaborn, Matplotlib, Tableau (basic)  
+- **Excel**: Functions, PivotTables, basic dashboards  
+- **R (Basics)**: Completed an introductory course project  
+
+---
+
+## 📚 Learning & Certifications
+
+- **IBM Data Analyst Professional Certificate** – *Coursera*  
+- **Google Data Analytics Professional Certificate** – *Coursera*  
+- **Introducing Generative AI with AWS** – *Udacity*  
+- **IBM Data Visualization with R** – *Coursera*  
+
+---
+
+## 📂 Projects
+
+I'm currently working on my first data analysis project — stay tuned!
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](www.linkedin.com/in/asmaa-alreshi)  
+- [GitHub](https://github.com/byasmaa)
+
+
+---
+
+Thanks for visiting my profile! ✨
+
