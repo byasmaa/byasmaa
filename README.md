@@ -24,7 +24,8 @@ I'm a beginner Data Analyst passionate about learning, exploring data, and turni
 
 ## 📂 Projects
 
-I'm currently working on my first data analysis project — stay tuned!
+ **[Sales Store Analysis](https://github.com/byasmaa/Sales-Store-Analysis)**  
+  My first end-to-end data analysis project. I explored sales and profit trends across product sub-categories using Python, Pandas, and data visualization tools.
 
 ---
 
